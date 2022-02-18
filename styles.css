@@ -1,0 +1,18 @@
+h1 {
+    color: orange;
+    background: beige;
+}
+
+body {
+    text-align: center;
+}
+ul {
+    list-style-position: inside;
+    display: inline-block;
+}
+
+li {
+    text-align: left;
+}
+
+
