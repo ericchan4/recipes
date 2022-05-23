@@ -11,12 +11,6 @@
     padding: 10px;
 }
 
-.logo {
-    height: 200px;
-    width: auto;
-    padding: 10px;
-}
-
 .recipeList {
     list-style-position: inside;
     display: inline-block;
@@ -25,9 +19,14 @@
     background-color: rgb(247, 247, 233);
 }
 
+.logo {
+    height: 250px;
+    width: auto;
+    padding: 10px;
+}
+
 li {
     text-align: left;
     padding: 5px;
 }
-
 
